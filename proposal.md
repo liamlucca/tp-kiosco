@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-*Sistema de gestión de audio-visuales, donde el usuario pueda subir y eliminar películas y series de su autoría. *
+Sistema de gestión de series y peliculas, donde el usuario pueda subir y eliminar audio-visuales de su autoría. 
 
 ### Modelo
 ![imagen del modelo]()
