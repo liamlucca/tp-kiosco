@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 54617 - Marino, Eduardo
 * 55197 - Requelme, Candela M
 * 54720 - Lucca, Liam Santiago
 
