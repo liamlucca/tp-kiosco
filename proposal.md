@@ -4,6 +4,7 @@
 ### Integrantes
 * legajo - Apellido(s), Nombre(s)
 * 55197 - Requelme, Candela M
+* 54720 - Lucca, Liam Santiago
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
