@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-Sistema de gestión de series y peliculas, donde el usuario pueda subir y eliminar audio-visuales de su autoría. 
+Sistema de gestión de series y peliculas, donde el usuario pueda subir y eliminar audio-visuales de su autoría. Además, un usuario puede denunciar a otro realizando una denuncia, donde establezca sus sospechas del material ilegal. 
 
 ### Modelo
 ![imagen del modelo]()
