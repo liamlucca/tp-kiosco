@@ -3,6 +3,7 @@
 ## Grupo
 ### Integrantes
 * legajo - Apellido(s), Nombre(s)
+* 55197 - Requelme, Candela M
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
