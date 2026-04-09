@@ -34,6 +34,7 @@ Regularidad:
 
 
 Adicionales para Aprobación
+"VAMOS A TENER QUE PREGUNTARLE AL PROFE SI CON LO DE ARRIBA YA ESTA O TENEMOS QUE PONER ALGO ACA"
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
