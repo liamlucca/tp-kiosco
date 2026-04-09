@@ -38,7 +38,7 @@ Adicionales para Aprobación<br>
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Audiovisual<br>2. CRUD Tipo Reporte<br>3. CRUD Denuncia<br>4. CRUD Usuario<br>5. CRUD Administrador<br>6. CRUD Espectador<br>7. CRUD Cliente<br>8. CRUD Apelación<br>9. CRUD VER MAS TARDE<br>10. CRUD Reseña|
-|CUU/Epic|"VAMOS A TENER QUE PREGUNTARLE AL PROFE SI CON LO DE ARRIBA YA ESTA O TENEMOS QUE PONER ALGO ACA"|
+|CUU/Epic|1. Agregar a “Ver Más Tarde” un Audiovisual<br>2. Buscar los datos de una Denuncia<br>3. Hacer valoración “Me gusta” “No Me gusta”|
 
 
 ### Alcance Adicional Voluntario
